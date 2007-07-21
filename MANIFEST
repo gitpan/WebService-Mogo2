@@ -1,0 +1,10 @@
+MANIFEST
+README
+LICENSE
+Changes
+t/pod.t
+Makefile.PL
+lib/WebService/Mogo2.pm
+t/01_load.t
+examples/setstatus.pl
+META.yml                                 Module meta-data (added by MakeMaker)
